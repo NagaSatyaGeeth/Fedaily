@@ -4,8 +4,8 @@ These are solutions to the [challenges on Frontend Mentor](https://www.frontendm
 
 ### Links
 
-- Solutions URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://fedaily.vercel.app/)
+- [Solution ](https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/recipePage)
+- [Live site ](https://fedaily.vercel.app/)
 
 ### Built with
 
@@ -16,6 +16,6 @@ These are solutions to the [challenges on Frontend Mentor](https://www.frontendm
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NagaSatyaGeeth)
-- Twitter - [@yourusername](https://x.com/nagsgeeth1)
+- Frontend Mentor - [@NagaSatyaGeeth](https://www.frontendmentor.io/profile/NagaSatyaGeeth)
+- Twitter - [@nagsgeeth1](https://x.com/nagsgeeth1)
 
