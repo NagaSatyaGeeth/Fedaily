@@ -4,7 +4,7 @@ These are solutions to the [challenges on Frontend Mentor](https://www.frontendm
 
 ### Links
 
-- [Solution ](https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/recipePage)
+- [Solution ](https://github.com/NagaSatyaGeeth/fedaily/tree/main/app)
 - [Live site ](https://fedaily.vercel.app/)
 
 ### Built with
