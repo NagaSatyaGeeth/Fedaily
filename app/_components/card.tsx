@@ -9,7 +9,7 @@ interface ProductCardProps {
 	githubUrl?: string;
 	designUrl?: string;
 	designName?: string;
-	linkUrl: string; // Add linkUrl prop
+	linkUrl: string;
 }
 
 export default function Cards({
@@ -21,9 +21,9 @@ export default function Cards({
 	linkUrl,
 }: ProductCardProps) {
 	return (
-		<Card className="w-full max-w-sm overflow-hidden cursor-pointer">
+		<Card className="w-full max-w-sm overflow-hidden cursor-pointer p-4">
 			<Link href={linkUrl}>
-				<div className="relative overflow-hidden">
+				<div className="relative overflow-hidden ">
 					<Image
 						src={imageUrl}
 						width="400"

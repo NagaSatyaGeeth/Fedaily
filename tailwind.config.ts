@@ -38,6 +38,16 @@ const config = {
 					50: "var(--color-rose-50)",
 				},
 
+				// Colors for Social link profile Design
+
+				green: "var(--color-green)",
+
+				grey: {
+					700: "var(--color-grey-700)",
+					800: "var(--color-grey-800)",
+					900: "var(--color-grey-900)",
+				},
+
 				border: "hsl(var(--border))",
 				input: "hsl(var(--input))",
 				ring: "hsl(var(--ring))",
