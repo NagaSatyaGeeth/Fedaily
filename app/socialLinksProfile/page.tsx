@@ -21,7 +21,7 @@ export default function socialLinksProfile() {
 
 	return (
 		<main
-			className={`${inter.className} text-white bg-grey-900 h-screen flex justify-center items-center `}
+			className={`${inter.className} text-white bg-grey-900 h-screen flex flex-col justify-center items-center `}
 		>
 			<div className="bg-grey-800 flex flex-col items-center px-2 pb-4 rounded-md">
 				<Image
@@ -45,6 +45,23 @@ export default function socialLinksProfile() {
 						<SocialLinkCard key={index} platform={platform} />
 					))}
 				</div>
+			</div>
+			<div className="text-center mt-24">
+				Challenge by {""}
+				<a
+					href="https://www.frontendmentor.io?ref=challenge"
+					className="underline underline-offset-2 text-blue-600"
+				>
+					Frontend Mentor
+				</a>
+				. Coded by{" "}
+				<a
+					href="https://github.com/NagaSatyaGeeth/"
+					className="underline underline-offset-2 text-blue-600"
+				>
+					Naga
+				</a>
+				.
 			</div>
 		</main>
 	);
