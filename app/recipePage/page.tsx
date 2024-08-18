@@ -1,6 +1,17 @@
 import "./recipePage.css";
 import Image from "next/image";
 import { youngSerif, outfit } from "../fonts";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Recipe Page",
+	openGraph: {
+		images: {
+			url: "/recipeCardImage.webp",
+			alt: "Recipe Card Image",
+		},
+	},
+};
 
 export default function RecipePage() {
 	return (

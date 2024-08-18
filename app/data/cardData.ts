@@ -19,4 +19,14 @@ export const cardData = [
 		designName: "Frontend Mentor",
 		linkUrl: "/socialLinksProfile",
 	},
+	{
+		imageUrl: "/blogPreviewCardImage.webp",
+		name: "Blog Preview Card",
+		githubUrl:
+			"https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/blogPreviewCard",
+		designUrl:
+			"https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+		designName: "Frontend Mentor",
+		linkUrl: "/blogPreviewCard",
+	},
 ];

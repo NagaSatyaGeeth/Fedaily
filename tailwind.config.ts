@@ -19,7 +19,7 @@ const config = {
 		},
 		extend: {
 			colors: {
-				// Colors for Recipe Page Design
+				// Recipe Page Design
 				white: "var(--color-white)",
 
 				stone: {
@@ -38,7 +38,7 @@ const config = {
 					50: "var(--color-rose-50)",
 				},
 
-				// Colors for Social link profile Design
+				//  Link Profile Design
 
 				green: "var(--color-green)",
 
@@ -46,6 +46,15 @@ const config = {
 					700: "var(--color-grey-700)",
 					800: "var(--color-grey-800)",
 					900: "var(--color-grey-900)",
+				},
+
+				// Blog Preview Card
+
+				yellow: "var(--color-yellow)",
+
+				gray: {
+					500: "var(--color-gray-500)",
+					950: "var(--color-gray-950)",
 				},
 
 				border: "hsl(var(--border))",
