@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 	title: "Recipe Page",
 	openGraph: {
 		images: {
-			url: "/recipeCardImage.webp",
+			url: "/images/recipeCard/recipeCardImage.webp",
 			alt: "Recipe Card Image",
 		},
 	},
@@ -21,7 +21,7 @@ export default function RecipePage() {
 			>
 				<div>
 					<Image
-						src="/recipePageImage.jpeg"
+						src="/images/recipeCard/recipePageImage.jpeg"
 						alt="recipePage"
 						layout="responsive"
 						width={1920}

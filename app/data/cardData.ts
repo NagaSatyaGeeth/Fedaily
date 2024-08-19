@@ -1,6 +1,6 @@
 export const cardData = [
 	{
-		imageUrl: "/recipeCardImage.webp",
+		imageUrl: "/images/recipeCard/recipeCardImage.webp",
 		name: "Recipe page",
 		githubUrl:
 			"https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/recipePage",
@@ -10,7 +10,7 @@ export const cardData = [
 		linkUrl: "/recipePage",
 	},
 	{
-		imageUrl: "/socialProfilePageCardImage.webp",
+		imageUrl: "/images/socialProfilePage/socialProfilePageCardImage.webp",
 		name: "Social Links Profile page",
 		githubUrl:
 			"https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/socialLinksProfile",
@@ -20,7 +20,7 @@ export const cardData = [
 		linkUrl: "/socialLinksProfile",
 	},
 	{
-		imageUrl: "/blogPreviewCardImage.webp",
+		imageUrl: "/images/blogPreviewCard/blogPreviewCardImage.webp",
 		name: "Blog Preview Card",
 		githubUrl:
 			"https://github.com/NagaSatyaGeeth/fedaily/tree/main/app/blogPreviewCard",

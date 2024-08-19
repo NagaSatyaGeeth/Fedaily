@@ -8,7 +8,7 @@ export const metadata: Metadata = {
 
 	openGraph: {
 		images: {
-			url: "/socialProfilePageCardImage.webp",
+			url: "/images/socialProfilePage/socialProfilePageCardImage.webp",
 			alt: "Social Links Profile image",
 		},
 	},
@@ -37,7 +37,7 @@ export default function socialLinksProfile() {
 		>
 			<div className="bg-grey-800 flex flex-col items-center px-2 pb-4 rounded-md">
 				<Image
-					src="/avatar-jessica.jpeg"
+					src="/images/socialProfilePage/avatar-jessica.jpeg"
 					alt="Profile Picture"
 					width={120}
 					height={120}
