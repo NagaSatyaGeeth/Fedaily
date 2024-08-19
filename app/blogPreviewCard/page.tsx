@@ -5,7 +5,6 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
 	title: "Blog Preview Card",
-
 	openGraph: {
 		images: {
 			url: "/blogPreviewCardImage.webp",

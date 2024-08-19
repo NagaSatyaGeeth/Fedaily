@@ -1,6 +1,18 @@
 import "./socialLinksProfile.css";
 import Image from "next/image";
 import { inter } from "../fonts";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Social Links Profile",
+
+	openGraph: {
+		images: {
+			url: "/socialProfilePageCardImage.webp",
+			alt: "Social Links Profile image",
+		},
+	},
+};
 
 export default function socialLinksProfile() {
 	const socialLinks = [
